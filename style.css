@@ -1,0 +1,45 @@
+/*CSS Styles*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    padding: 5px;
+    height: 125px;
+}
+
+#one {
+    background: pink;
+}
+
+#two {
+    background: lightgray;
+}
+
+#three {
+    background: lightyellow;
+}
+
+#four {
+    background: lightgreen;
+}
+
+#five {
+    background: lightblue;
+    
+}
+
+#div1 {
+    width: 140px;
+}
+
+#div2 {
+    width: 175px;
+}
+
+#div3 {
+    width: 180px;
+}
+
